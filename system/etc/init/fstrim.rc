@@ -1,0 +1,8 @@
+
+service fstrim /system/bin/fstrim start
+    class core
+    user root
+    group root
+    oneshot
+    writepid /dev/stune/top-app/tasks
+
