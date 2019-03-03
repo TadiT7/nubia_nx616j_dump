@@ -1,0 +1,6 @@
+vendor/etc/dts/dts.lic
+NON-HLOS.bin
+system/app/webview/webview.apk
+system/ultrasonic/play.wav
+system/priv-app/Camera/Camera.apk
+system/etc/faceclassifier/faceclassifier.dlc
